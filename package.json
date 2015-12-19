@@ -1,7 +1,7 @@
 {
   "name": "is-min",
-  "version": "1.0.0",
-  "description": "Determine if a value is higher than a value",
+  "version": "1.0.1",
+  "description": "Determine if a value is higher than another value",
   "license": "MIT",
   "repository": {
     "type": "git",
