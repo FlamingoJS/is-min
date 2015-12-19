@@ -1,5 +1,5 @@
-# is-cpf
-Determine if a value is higher than a value
+# is-min
+Determine if a value is higher than another value
 
 ## Install
 ```
